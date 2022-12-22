@@ -11,6 +11,6 @@ Low cost pollution datalogger
 Arduino Nano
 MQ-7
 MQ-131
-RTC
+DS1302 RTC
 16x2 SPI LCD
 SD Card Reader
