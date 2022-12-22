@@ -4,7 +4,7 @@
 _\ \ |_| |_| | | | | |_) | (_) | |_\__ \
 \__/\__|\__,_|_| |_|_.__/ \___/ \__|___/
                                         
-https://stunbotics.com/
+https://stunbots.com/
 
 Low cost pollution datalogger
 ---------------- Parts ------------------
