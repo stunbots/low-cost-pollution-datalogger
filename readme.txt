@@ -13,3 +13,4 @@ MQ-7
 MQ-131
 RTC
 16x2 SPI LCD
+SD Card Reader
